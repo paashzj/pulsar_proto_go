@@ -18,7 +18,7 @@
  */
 syntax = "proto2";
 
-package pulsar.proto;
+package pulsar.proto.go;
 option java_package = "org.apache.pulsar.common.api.proto";
 option optimize_for = LITE_RUNTIME;
 
